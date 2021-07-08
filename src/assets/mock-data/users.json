@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "sud",
+      "lastName": "s",
+      "mobile": "9897866543",
+      "email": "ud.k@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "2",
+      "firstName": "s",
+      "lastName": "k",
+      "mobile": "87878787878",
+      "email": "s.k@gmail.com",
+      "password": "123456789"
+    }
+  ]
+}
